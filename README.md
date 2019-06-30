@@ -6,12 +6,9 @@
 
 ## Up to date
 
-- Alexandre Villares 🇧🇷 - [Sketchs](https://abav.lugaralgum.com/sketch-a-day/) | [Source Code](https://github.com/villares/sketch-a-day)
-- Bernardo Fontes 🇧🇷 - [Sketchs](https://berinhard.github.io/sketches/) | [Source Code](https://github.com/berinhard/sketches/)
-- Lolo Armdz 🇦🇷 - [Sketchs](https://www.behance.net/armdz) | [Source Code](https://github.com/armdz/ProcessingSketchs)
-- Manolo Gamboa Naon 🇦🇷 - [Sketchs](https://www.behance.net/manoloide) | [Source Code](https://github.com/manoloide/AllSketchs)
-- Yuan Chuan 🇨🇳 - [Sketchs](https://codepen.io/yuanchuan/) | [Source Code](https://codepen.io/yuanchuan/)
-- Etienne Jacob 🇫🇷 - [Sketchs](https://necessary-disorder.tumblr.com/) |  [Source Code]( https://gist.github.com/Bleuje)
-- Etienne Jacob 🇫🇷 - [Sketchs](https://necessary-disorder.tumblr.com/) |  [Source Code]( https://gist.github.com/Bleuje)
-
-## Archived
+- Alexandre Villares  🇧🇷 [[Sketchbook]](https://abav.lugaralgum.com/sketch-a-day/) | [[Code]](https://github.com/villares/sketch-a-day)
+- Bernardo Fontes 🇧🇷 [[Sketchbook]](https://berinhard.github.io/sketches/) | [[Code]](https://github.com/berinhard/sketches/)
+- Lolo Armdz 🇦🇷 [[Sketchbook]](https://www.behance.net/armdz) | [[Code]](https://github.com/armdz/ProcessingSketchs)
+- Manolo Gamboa Naon 🇦🇷 [[Sketchbook]](https://www.behance.net/manoloide) | [[Code]](https://github.com/manoloide/AllSketchs)
+- Yuan Chuan 🇨🇳 [[Sketchbook]](https://codepen.io/yuanchuan/) | [[Code]](https://codepen.io/yuanchuan/)
+- Etienne Jacob 🇫🇷 [[Sketchbook]](https://necessary-disorder.tumblr.com/) |  [[Code]]( https://gist.github.com/Bleuje)
