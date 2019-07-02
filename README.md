@@ -13,7 +13,8 @@
 - Lolo Armdz 🇦🇷 [[Sketchbook]](https://www.behance.net/armdz) [[Code]](https://github.com/armdz/ProcessingSketchs)
 - Manolo Gamboa Naon 🇦🇷 [[Sketchbook]](https://www.behance.net/manoloide) [[Code]](https://github.com/manoloide/AllSketchs)
 - Yuan Chuan 🇨🇳 [[Sketchbook]](https://codepen.io/yuanchuan/) [[Code]](https://codepen.io/yuanchuan/)
-- Etienne Jacob 🇫🇷 [[Sketchbook]](https://necessary-disorder.tumblr.com/) [[Code]]( https://gist.github.com/Bleuje)
+- Etienne Jacob 🇫🇷 [[Sketchbook]](https://necessary-disorder.tumblr.com/) [[Code]](https://gist.github.com/Bleuje)
+- Varun Vachhar 🇮🇳 [[Sketchbook]](https://sketchbook.netlify.com/) [[Code]](https://github.com/winkerVSbecks/sketchbook)
 
 
 ## Archived
