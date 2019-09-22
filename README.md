@@ -15,6 +15,7 @@
 - Yuan Chuan 🇨🇳 [[Sketchbook]](https://codepen.io/yuanchuan/) [[Code]](https://codepen.io/yuanchuan/)
 - Etienne Jacob 🇫🇷 [[Sketchbook]](https://necessary-disorder.tumblr.com/) [[Code]](https://gist.github.com/Bleuje)
 - Varun Vachhar 🇮🇳 [[Sketchbook]](https://sketchbook.netlify.com/) [[Code]](https://github.com/winkerVSbecks/sketchbook)
+- Aaron Penne 🇺🇸 [[Sketchbook]](https://github.com/aaronpenne/generative_art) [[Code]](https://github.com/aaronpenne/generative_art)
 
 
 ## Archived
